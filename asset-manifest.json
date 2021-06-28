@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/personal/static/css/main.cfdfae86.chunk.css",
-    "main.js": "/personal/static/js/main.c5876b56.chunk.js",
-    "main.js.map": "/personal/static/js/main.c5876b56.chunk.js.map",
-    "runtime-main.js": "/personal/static/js/runtime-main.83c5f7a2.js",
-    "runtime-main.js.map": "/personal/static/js/runtime-main.83c5f7a2.js.map",
-    "static/js/2.8ce44059.chunk.js": "/personal/static/js/2.8ce44059.chunk.js",
-    "static/js/2.8ce44059.chunk.js.map": "/personal/static/js/2.8ce44059.chunk.js.map",
-    "static/js/3.c468a01f.chunk.js": "/personal/static/js/3.c468a01f.chunk.js",
-    "static/js/3.c468a01f.chunk.js.map": "/personal/static/js/3.c468a01f.chunk.js.map",
-    "index.html": "/personal/index.html",
-    "static/css/main.cfdfae86.chunk.css.map": "/personal/static/css/main.cfdfae86.chunk.css.map",
-    "static/js/2.8ce44059.chunk.js.LICENSE.txt": "/personal/static/js/2.8ce44059.chunk.js.LICENSE.txt",
-    "static/media/kakashi.39661b46.jpg": "/personal/static/media/kakashi.39661b46.jpg",
-    "static/media/ninja.d50d21db.jpg": "/personal/static/media/ninja.d50d21db.jpg"
+    "main.css": "/static/css/main.cfdfae86.chunk.css",
+    "main.js": "/static/js/main.c5876b56.chunk.js",
+    "main.js.map": "/static/js/main.c5876b56.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6db7a267.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6db7a267.js.map",
+    "static/js/2.8ce44059.chunk.js": "/static/js/2.8ce44059.chunk.js",
+    "static/js/2.8ce44059.chunk.js.map": "/static/js/2.8ce44059.chunk.js.map",
+    "static/js/3.c468a01f.chunk.js": "/static/js/3.c468a01f.chunk.js",
+    "static/js/3.c468a01f.chunk.js.map": "/static/js/3.c468a01f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cfdfae86.chunk.css.map": "/static/css/main.cfdfae86.chunk.css.map",
+    "static/js/2.8ce44059.chunk.js.LICENSE.txt": "/static/js/2.8ce44059.chunk.js.LICENSE.txt",
+    "static/media/kakashi.39661b46.jpg": "/static/media/kakashi.39661b46.jpg",
+    "static/media/ninja.d50d21db.jpg": "/static/media/ninja.d50d21db.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.83c5f7a2.js",
+    "static/js/runtime-main.6db7a267.js",
     "static/js/2.8ce44059.chunk.js",
     "static/css/main.cfdfae86.chunk.css",
     "static/js/main.c5876b56.chunk.js"
