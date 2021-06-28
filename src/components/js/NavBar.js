@@ -8,7 +8,7 @@ export default function NavBar() {
       <div className="container mx-auto flex justify-between">
         <nav className="flex">
           <NavLink
-            to="/personal"
+            to="/"
             exact
             activeClassName="text-white"
             className="inflex-flex items-center py-6 px-3 mr-4 text-green-100 hover:text-red-800 text-4xl font-bold cursive tracking-widest"
@@ -16,20 +16,20 @@ export default function NavBar() {
             Mohammed
           </NavLink>
           <NavLink
-            to="/personal/post"
+            to="/post"
             activeClassName="text-white"
             className="inflex-flex items-center px-6 px-3 my-6 rounded text-green-200 hover:text-red-800"
           >
             Blog Posts
           </NavLink>
           <NavLink
-            to="/personal/project"
+            to="/project"
             className="inflex-flex items-center px-6 px-3 my-6 rounded text-green-200 hover:text-red-800"
           >
             Projects
           </NavLink>
           <NavLink
-            to="/personal/about"
+            to="/about"
             className="inflex-flex items-center px-6 px-3 my-6 rounded text-green-200 hover:text-red-800"
           >
             About Me!
