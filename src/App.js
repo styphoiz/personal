@@ -11,11 +11,11 @@ function App() {
     <BrowserRouter>
       <NavBar />
       <Switch>
-        <Route component={Home} path="/personal" exact />
-        <Route component={About} path="/personal/About" />
-        <Route component={SinglePost} path="/personal/post/:slug" />
-        <Route component={Post} path="/personal/post" />
-        <Route component={Project} path="/personal/project" />
+        <Route component={Home} path="/" exact />
+        <Route component={About} path="/About" />
+        <Route component={SinglePost} path="/post/:slug" />
+        <Route component={Post} path="/post" />
+        <Route component={Project} path="/project" />
       </Switch>
     </BrowserRouter>
   );
