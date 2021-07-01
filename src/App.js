@@ -1,4 +1,6 @@
+//import { BrowserRouter, Route, Switch } from "react-router-dom";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 import Home from "./components/js/Home";
 import About from "./components/js/About";
 import SinglePost from "./components/js/SinglePost";
@@ -8,7 +10,7 @@ import NavBar from "./components/js/NavBar";
 
 function App() {
   return (
-    <BrowserRouter>
+    <Router basename={process.env.PUBLIC_URL}>
       <NavBar />
       <Switch>
         <Route component={Home} path="/" exact />
@@ -17,7 +19,7 @@ function App() {
         <Route component={Post} path="/post" />
         <Route component={Project} path="/project" />
       </Switch>
-    </BrowserRouter>
+    </Router>
   );
 }
 
